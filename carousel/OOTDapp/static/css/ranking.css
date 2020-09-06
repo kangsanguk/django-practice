@@ -1,0 +1,55 @@
+.help {
+    background-color: cadetblue;
+    width: 80%;
+    margin-top: 2%;
+    padding-bottom: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+.help3 {
+    background-color: burlywood;
+    width: 80%;
+    margin-top: 2%;
+    padding-bottom: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 20px;
+    margin-bottom: 6%;
+}
+
+.help2 {
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.item {
+    width: 5%;
+    height: 5%;
+    text-align: center;
+    margin-left:138px;
+    margin-bottom: 40px;
+    float: left;
+}
+
+.item2 {
+    width: 5%;
+    height: 5%;
+    border-radius: 2.5%;
+    text-align: center;
+    margin-left:138px;
+    margin-bottom: 40px;
+    float: left;
+}
+
+.title {
+    margin-top: 50px;
+    margin-left:150px;
+}
+
+.subtitle {
+    text-align: center;
+    margin-top: 60px;
+}
